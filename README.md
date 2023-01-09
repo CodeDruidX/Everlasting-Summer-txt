@@ -1,7 +1,11 @@
 # Everlasting Summer txt
+![image](https://user-images.githubusercontent.com/52743561/211267338-f46a4c0f-3f24-4970-b84a-f43fac6a2357.png)
+
 Plain text from "Everlasting Summer" decompiled files
 
 Полный текст "Бесконечного Лета" конвертированный из взломанных файлов игры
+
+#
 
 Меню выбора превращены в конструкции типа
 

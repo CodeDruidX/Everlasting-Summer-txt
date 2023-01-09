@@ -1,12 +1,3 @@
-init:
-$ prologue = 0
-
-label prologue:
-
-$ set_mode_adv()
-$ reload_names()
-
-$ backdrop = 
 Мне опять снился сон.
 _Этот_ сон...
 Каждую ночь одно и то же.
